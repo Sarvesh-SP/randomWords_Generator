@@ -1,4 +1,4 @@
-# randomWord_Generator
+# randomWords_Generator
 
 A new Flutter project.
 
